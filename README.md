@@ -13,4 +13,4 @@ python3 noPlateDetection.py
 
 To save the number plate just press the 'S' key. The Image will be saved inside 'Resources->Scanned' folder.
 
-<img src="https://github.com/OmRajpurkar/Face-Detection-using-OpenCV/blob/master/Resources/ProjectExhibitionOutput.png" alt="alt text" width="600" height="400">
+<img src="https://github.com/OmRajpurkar/Number-Plate-Detection-using-OpenCV/blob/master/Resources/SavingImage.png" alt="alt text" width="600" height="400">
